@@ -1,0 +1,132 @@
+body{
+    background-color: #251B37;
+    color: #fff;
+}
+
+h1, h2, h3{
+    font-family: "playfair display";
+    color: #fff;
+}
+p{
+    color: #fff;
+    font-family: "ubuntu";
+    font-weight: 200;
+    font-size: 1rem;
+    line-height: 2;
+    letter-spacing: 2px;
+}
+
+/* headings */
+
+.big-heading{
+    margin:50px 0 ;
+    font-weight: bolder;
+    font-size: 4rem;
+    line-height: 1.5;
+    letter-spacing: 3px;
+}
+
+/* navbar-section */
+
+.nav-items{
+    margin: 0 20px;
+}
+.nav-link{
+    color: #fff;
+    font-weight: 500;
+}
+
+
+
+/* title-section */
+#title{
+    padding: 5% 10% 15%;
+
+}
+
+.row{
+    padding-top: 50px;
+}
+
+/* title-image */
+
+.img-title{
+    width: 100%;
+    border-radius: 10%;
+}
+
+
+
+
+/* testimonial-section */
+
+#testimonial{
+    padding: 7% 3%;
+    background-color:#372948;
+    text-align: center;
+    color: #fff;
+}
+
+.my-img{
+    width: 80%;
+    border-radius: 100%;
+}
+
+h2{
+    
+    font-weight: 900;
+    font-size: 3rem;
+    margin:10px 0;
+    letter-spacing: 5px;
+}
+
+
+/* work-section */
+
+#my-work{
+    padding: 7% 0%;
+    background-color: #251B37;
+    color: #fff;
+    text-align: center; 
+}
+
+#apps-img{
+    width: 90%;
+    border-radius: 100%;
+    padding-bottom: 20px;
+}
+
+h3{
+    margin: 20px 0;
+    font-weight: 900;
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+}
+
+#cta{
+    background-color: #372948;
+    padding:7% 15% 15%;
+    text-align: center;
+}
+
+#icons-e{
+    color: #FFF;
+    margin: 0 20px;
+}
+
+#col-footer{
+    margin-bottom: 50px;
+}
+.fa-brands:hover{
+    color: black;
+}
+
+.fa-sharp:hover {
+    color: black;
+}
+
+.footer{
+    font-weight: 100;
+    color: darkgray;
+}
+
